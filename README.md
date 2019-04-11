@@ -4,7 +4,7 @@
 
 ##### Map
 Basic village map  
-Basic mansion map (later)
+Basic mansion map (later)  
 Models
 
 
