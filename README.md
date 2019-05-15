@@ -1,4 +1,4 @@
-# BuildInvade Prototype
+# Holy Wars Prototype
 ## Step 1: Attacker Prototype
 ### Basic movement
  - ~~Walking~~
