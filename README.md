@@ -20,9 +20,9 @@
 
 ### Combat
  - Bow
- -- Projectile
- -- Lingering projectile after it hits a wall/actor
- -- Ammo pickups
+   - Projectile
+   - Lingering projectile after it hits a wall/actor
+   - Ammo pickups
  - Health
  - Respawns (?)
 
