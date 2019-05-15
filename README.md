@@ -1,7 +1,38 @@
 # BuildInvade Prototype
+## Step 1: Attacker Prototype
+### Basic movement
+ - ~~Walking~~
+ - ~~Running~~
+ - ~~Jumping~~
+ - Crouching
 
-### Todo:
+### Advanced movement
+ - ~~Double Jumping~~
+ - Multiple Jumping(?)
+ - Ledge Climbing
+ - Rolling (?)
+ - Sliding (?)
 
+### Guards
+ - Movement
+ - Detection
+ - Combat
+
+### Combat
+ - Bow
+ -- Projectile
+ -- Lingering projectile after it hits a wall/actor
+ -- Ammo pickups
+ - Health
+ - Respawns (?)
+
+### Stealth
+ - Sneaking
+ - Noise
+ - Stealth kills
+
+
+#### To Do:
 ##### Map
 Basic village map  
 Basic mansion map (later)  
