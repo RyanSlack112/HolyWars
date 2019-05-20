@@ -4,14 +4,14 @@
  - ~~Walking~~
  - ~~Running~~
  - ~~Jumping~~
- - Crouching
+ - ~~Crouching~~
 
 ### Advanced movement
  - ~~Double Jumping~~
- - Multiple Jumping(?)
+ - ~~Multiple Jumping~~
  - Ledge Climbing
  - Rolling (?)
- - Sliding (?)
+ - ~~Sliding~~
 
 ### Guards
  - Movement
