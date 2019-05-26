@@ -9,7 +9,7 @@
 ### Advanced movement
  - ~~Double Jumping~~
  - ~~Multiple Jumping~~
- - Ledge Climbing
+ - ~~Ledge Climbing~~
  - Rolling (?)
  - ~~Sliding~~
 
