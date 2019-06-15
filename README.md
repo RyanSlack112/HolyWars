@@ -19,8 +19,8 @@
  - Combat
 
 ### Combat
- - Bow
-   - Projectile
+ - ~~Bow~~
+   - ~~Projectile~~
    - Lingering projectile after it hits a wall/actor
    - Ammo pickups
  - Health
