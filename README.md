@@ -33,8 +33,10 @@
  
  ### First Person / Third Person View
   - ~~Switch views~~
-  - First person animations
-  - THird person animations
+  - First Person animations
+  - Third Person animations
+    - Gun Holding animations
+    - Blend with walking animations
 
 
 #### To Do:
