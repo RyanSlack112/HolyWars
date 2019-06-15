@@ -21,7 +21,7 @@
 ### Combat
  - ~~Bow~~
    - ~~Projectile~~
-   - Lingering projectile after it hits a wall/actor
+   - ~~Lingering projectile after it hits a wall/actor~~
    - Ammo pickups
  - Health
  - Respawns (?)
@@ -30,6 +30,11 @@
  - Sneaking
  - Noise
  - Stealth kills
+ 
+ ### First Person / Third Person View
+  - ~~Switch views~~
+  - First person animations
+  - THird person animations
 
 
 #### To Do:
