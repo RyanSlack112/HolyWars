@@ -80,3 +80,8 @@ DerivedDataCache/*
 # Paragon FX and Audio files
 Content/ParagonYin/FX/*
 Content/ParagonYin/Audio/*
+Content/ParagonYin/Characters/Maps/Yin.umap
+Content/ParagonYin/Characters/Maps/BackGroundAssets/SM_AssetPlatform.uasset
+Content/ParagonYin/Characters/Maps/BackGroundAssets/M_AssetPlatform.uasset
+Content/ParagonYin/Characters/Maps/BackGroundAssets/T_HDRI_Epic_Courtyard_Daylight.uasset
+Content/ParagonYin/Characters/Maps/BackGroundAssets/M_HDRSky.uasset
