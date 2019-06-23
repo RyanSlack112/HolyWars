@@ -4,14 +4,14 @@
  - ~~Walking~~
  - ~~Running~~
  - ~~Jumping~~
- - Crouching
+ - ~~Crouching~~
 
 ### Advanced movement
  - ~~Double Jumping~~
- - Multiple Jumping(?)
- - Ledge Climbing
+ - ~~Multiple Jumping~~
+ - ~~Ledge Climbing~~
  - Rolling (?)
- - Sliding (?)
+ - ~~Sliding~~
 
 ### Guards
  - Movement
@@ -19,9 +19,9 @@
  - Combat
 
 ### Combat
- - Bow
-   - Projectile
-   - Lingering projectile after it hits a wall/actor
+ - ~~Bow~~
+   - ~~Projectile~~
+   - ~~Lingering projectile after it hits a wall/actor~~
    - Ammo pickups
  - Health
  - Respawns (?)
@@ -30,6 +30,13 @@
  - Sneaking
  - Noise
  - Stealth kills
+ 
+ ### First Person / Third Person View
+  - ~~Switch views~~
+  - First Person animations
+  - Third Person animations
+    - Gun Holding animations
+    - Blend with walking animations
 
 
 #### To Do:
