@@ -14,9 +14,9 @@
  - ~~Sliding~~
 
 ### Guards
- - Movement
- - Detection
- - Combat
+ - ~~Movement~~
+ - ~~Detection~~
+ - Combat - Can currently melee attack, does no damage.
 
 ### Combat
  - ~~Bow~~
