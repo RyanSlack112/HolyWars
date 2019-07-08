@@ -28,7 +28,8 @@
 
 ### Stealth
  - Sneaking
- - Noise
+ - ~~Noise~~
+ - ~~Light Visibility~~
  - Stealth kills
  
  ### First Person / Third Person View
